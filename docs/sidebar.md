@@ -13,4 +13,4 @@
 
 - Heurística 3
 
-  - [En desarollo..](heuristica-3/3-1.md)
+  - [En desarrollo..](heuristica-3/3-1.md)
