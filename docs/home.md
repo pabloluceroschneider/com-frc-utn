@@ -1,4 +1,4 @@
-# Heurísiticas de COM, UTN-FRC
+# Heurísticas de COM, UTN-FRC
 
 Ejercicios Prácticos de Comunicaciones de Datos, de la UTN - Facultad Regional Córdoba.
 
