@@ -1,15 +1,15 @@
-- Heurística 1
-
-  - [1.1](heuristica-1/1-1.md)
-  - [1.2](heuristica-1/1-2.md)
-  - [1.3](heuristica-1/1-3.md)
-  - [1.4](heuristica-1/1-4.md)
-  - [1.5](heuristica-1/1-5.md)
-  - [1.6](heuristica-1/1-6.md)
-  - [1.7](heuristica-1/1-7.md)
-  - [1.8](heuristica-1/1-8.md)
-  - [1.9](heuristica-1/1-9.md)
-
 - Heurística 2
 
-  - [En desarollo..](heuristica-2/2-1.md)
+  - [2.1](heuristica-2/2-1.md)
+  - [2.2](heuristica-2/2-2.md)
+  - [2.3](heuristica-2/2-3.md)
+  - [2.4](heuristica-2/2-4.md)
+  - [2.5](heuristica-2/2-5.md)
+  - [2.6](heuristica-2/2-6.md)
+  - [2.7](heuristica-2/2-7.md)
+  - [2.8](heuristica-2/2-8.md)
+  - [2.9](heuristica-2/2-9.md)
+
+- Heurística 3
+
+  - [En desarollo..](heuristica-3/3-1.md)
