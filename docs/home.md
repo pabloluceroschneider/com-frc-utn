@@ -1,5 +1,5 @@
-### Heurísiticas de COM UTN FRC
+### Heurísiticas de COM FRC-UTN
 
-author: [Pablo](https://www.linkedin.com/in/pabloschneider/)
+Desarrollado por [Pablo Schneider](https://www.linkedin.com/in/pabloschneider/) 🤗
 
-2024
+Última revisión Q1-2024
