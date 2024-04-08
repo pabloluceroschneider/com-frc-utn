@@ -1,0 +1,22 @@
+{
+  "name": "com-frc-utn",
+  "version": "1.0.0",
+  "description": "Heurísticas de Comunicaciones de Datos, Facultad Regional de Córdoba, Universidad Tecnológica Nacional. ",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "docsify serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pabloluceroschneider/com-frc-utn.git"
+  },
+  "author": "pabloluceroschneider@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pabloluceroschneider/com-frc-utn/issues"
+  },
+  "homepage": "https://github.com/pabloluceroschneider/com-frc-utn#readme"
+}
