@@ -1,7 +1,7 @@
-### Heurísiticas de COM UTN FRC
+### Heurísiticas de COM FRC-UTN
 
-Visit https://pabloluceroschneider.github.io/com-frc-utn/#/
+🚀 Deploy: https://pabloluceroschneider.github.io/com-frc-utn/#/
 
-author: [Pablo :)](https://www.linkedin.com/in/pabloschneider/)
+💻 Desarrollado por [Pablo Schneider](https://www.linkedin.com/in/pabloschneider/)
 
 2024
