@@ -2,7 +2,7 @@
   "name": "com-frc-utn",
   "version": "1.0.0",
   "description": "Heurísticas de Comunicaciones de Datos, Facultad Regional de Córdoba, Universidad Tecnológica Nacional. ",
-  "main": "index.js",
+  "main": "docs/index.html",
   "directories": {
     "doc": "docs"
   },
