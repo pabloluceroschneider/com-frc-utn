@@ -2,15 +2,15 @@
 
 Ejercicios Prácticos de **Comunicaciones de Datos**, de la UTN - Facultad Regional Córdoba.
 
-| Heurísticas                                       |
-| ------------------------------------------------- |
-| 2. [Atenuación](heuristica-2/2-1)                 |
-| 3. [Análisis de Señales](heuristica-3/3-1)        |
-| 4. [Teoría de la Información ](#) (en desarrollo) |
-| 5. [Capacidad del Canal ](#) (en desarrollo)      |
-| 6. [Códigos de Linea ](#) (en desarrollo)         |
-| 7. [Modulación - PCM - MUX ](#) (en desarrollo)   |
-| 8. [Enlaces inalámbricos ](#) (en desarrollo)     |
+| Heurísticas                                      |
+| ------------------------------------------------ |
+| 2. [Atenuación](heuristica-2/2-1)                |
+| 3. [Análisis de Señales](heuristica-3/3-1)       |
+| 4. [Teoría de la Información ](heuristica-4/4-1) |
+| 5. [Capacidad del Canal ](#) (en desarrollo)     |
+| 6. [Códigos de Linea ](#) (en desarrollo)        |
+| 7. [Modulación - PCM - MUX ](#) (en desarrollo)  |
+| 8. [Enlaces inalámbricos ](#) (en desarrollo)    |
 
 ### Créditos
 

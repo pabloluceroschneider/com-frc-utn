@@ -25,3 +25,13 @@
   - [3.10](heuristica-3/3-10.md)
   - [3.11](heuristica-3/3-11.md)
   - [3.12](heuristica-3/3-12.md)
+
+- Heurística 4
+
+  - [4.1](heuristica-3/4-1.md)
+  - [4.2](heuristica-3/4-2.md)
+  - [4.3](heuristica-3/4-3.md)
+  - [4.4](heuristica-3/4-4.md)
+  - [4.5](heuristica-3/4-5.md)
+  - [4.6](heuristica-3/4-6.md)
+  - [4.7](heuristica-3/4-7.md)
