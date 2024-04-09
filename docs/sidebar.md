@@ -14,4 +14,3 @@
 - Heurística 3
 
   - [3.1](heuristica-3/3-1.md)
-
