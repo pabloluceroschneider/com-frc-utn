@@ -14,6 +14,10 @@ Plugins
 - [Docsify Pagination](https://github.com/imyelo/docsify-pagination)
 - [Docsify Sidebar Collapse](https://github.com/iPeng6/docsify-sidebar-collapse#readme)
 
+Documentation
+
+- [Simbols](https://www.bearnok.com/grva/it/knowledge/software/mathjax)
+
 ---
 
 2024
