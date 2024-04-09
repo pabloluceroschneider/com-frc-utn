@@ -1,4 +1,4 @@
-# Heurísiticas de COM, UTN-FRC
+# Heurísticas de COM, UTN-FRC
 
 🚀 Deploy: https://pabloluceroschneider.github.io/com-frc-utn/#/
 
