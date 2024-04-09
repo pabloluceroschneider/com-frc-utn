@@ -12,6 +12,7 @@ Plugins
 
 - [Docsify LaTex](https://scruel.github.io/docsify-latex/#/)
 - [Docsify Pagination](https://github.com/imyelo/docsify-pagination)
+- [Docsify Sidebar Collapse](https://github.com/iPeng6/docsify-sidebar-collapse#readme)
 
 ---
 
