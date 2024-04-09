@@ -23,3 +23,5 @@
   - [3.8](heuristica-3/3-8.md)
   - [3.9](heuristica-3/3-9.md)
   - [3.10](heuristica-3/3-10.md)
+  - [3.11](heuristica-3/3-11.md)
+  - [3.12](heuristica-3/3-12.md)
