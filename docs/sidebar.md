@@ -19,3 +19,4 @@
   - [3.4](heuristica-3/3-4.md)
   - [3.5](heuristica-3/3-5.md)
   - [3.6](heuristica-3/3-6.md)
+  - [3.7](heuristica-3/3-7.md)
