@@ -36,3 +36,4 @@
   - [4.6](heuristica-4/4-6.md)
   - [4.7](heuristica-4/4-7.md)
   - [4.8](heuristica-4/4-8.md)
+  - [4.9](heuristica-4/4-9.md)
