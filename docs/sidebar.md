@@ -28,10 +28,10 @@
 
 - Heurística 4
 
-  - [4.1](heuristica-3/4-1.md)
-  - [4.2](heuristica-3/4-2.md)
-  - [4.3](heuristica-3/4-3.md)
-  - [4.4](heuristica-3/4-4.md)
-  - [4.5](heuristica-3/4-5.md)
-  - [4.6](heuristica-3/4-6.md)
-  - [4.7](heuristica-3/4-7.md)
+  - [4.1](heuristica-4/4-1.md)
+  - [4.2](heuristica-4/4-2.md)
+  - [4.3](heuristica-4/4-3.md)
+  - [4.4](heuristica-4/4-4.md)
+  - [4.5](heuristica-4/4-5.md)
+  - [4.6](heuristica-4/4-6.md)
+  - [4.7](heuristica-4/4-7.md)
