@@ -10,6 +10,7 @@
   - [2.8](heuristica-2/2-8.md)
   - [2.9](heuristica-2/2-9.md)
   - [2.10](heuristica-2/2-10.md)
+  - [2.11](heuristica-2/2-11.md)
 
 - Heurística 3
 
