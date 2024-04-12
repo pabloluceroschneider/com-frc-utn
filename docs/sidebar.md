@@ -14,6 +14,7 @@
   - [2.12](heuristica-2/2-12.md)
   - [2.13](heuristica-2/2-13.md)
   - [2.14](heuristica-2/2-14.md)
+  - [2.15](heuristica-2/2-15.md)
   - [2.19](heuristica-2/2-19.md)
 
 - Heurística 3
