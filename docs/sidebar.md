@@ -49,4 +49,5 @@
   - [4.10](heuristica-4/4-10.md)
   - [4.11](heuristica-4/4-11.md)
   - [4.15](heuristica-4/4-15.md)
+  - [4.18](heuristica-4/4-18.md)
   - [4.19](heuristica-4/4-19.md)
