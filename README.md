@@ -17,7 +17,3 @@ Plugins
 Documentation
 
 - [Simbols](https://www.bearnok.com/grva/it/knowledge/software/mathjax)
-
----
-
-2024
