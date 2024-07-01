@@ -7,7 +7,7 @@ Ejercicios Prácticos de **Comunicaciones de Datos**, de la UTN - Facultad Regio
 | 2. [Atenuación](heuristica-2/2-1)                |
 | 3. [Análisis de Señales](heuristica-3/3-1)       |
 | 4. [Teoría de la Información ](heuristica-4/4-1) |
-| 5. ⚠️ [Capacidad del Canal ](aux/support.md)     |
+| 5. ⚠️ [Capacidad del Canal ](heuristica-5/5-1)   |
 | 6. ⚠️ [Códigos de Linea ](aux/support.md)        |
 | 7. ⚠️ [Modulación - PCM - MUX ](aux/support.md)  |
 | 8. ⚠️ [Enlaces inalámbricos ](aux/support.md)    |

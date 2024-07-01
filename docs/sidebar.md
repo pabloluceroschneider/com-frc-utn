@@ -56,3 +56,9 @@
   - [4.17](heuristica-4/4-17.md)
   - [4.18](heuristica-4/4-18.md)
   - [4.19](heuristica-4/4-19.md)
+
+- Heurística 5
+
+  - [5.1](heuristica-5/5-1.md)
+  - [5.2](heuristica-5/5-2.md)
+  - [5.3](heuristica-5/5-3.md)
