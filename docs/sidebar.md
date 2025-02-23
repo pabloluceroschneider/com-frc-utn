@@ -62,3 +62,5 @@
   - [5.1](heuristica-5/5-1.md)
   - [5.2](heuristica-5/5-2.md)
   - [5.3](heuristica-5/5-3.md)
+  - [5.4](heuristica-5/5-4.md)
+  - [5.5](heuristica-5/5-5.md)

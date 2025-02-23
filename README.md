@@ -17,3 +17,9 @@ Plugins
 Documentation
 
 - [Simbols](https://www.bearnok.com/grva/it/knowledge/software/mathjax)
+
+#### Comandos para levantar el proyecto
+
+```bash
+npm run dev
+```

@@ -13,3 +13,5 @@ Si necesitás algún ejercicio específico de la heurística, hacemelo saber al 
 ¡Muchas gracias!
 
 Pablo.
+
+⬅️ <a href="/#/">Volver al Inicio</a>
