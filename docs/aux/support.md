@@ -14,4 +14,4 @@ Si necesitás algún ejercicio específico de la heurística, hacemelo saber al 
 
 Pablo.
 
-⬅️ <a href="/#/">Volver al Inicio</a>
+⬅️ <a href=".">Volver al Inicio</a>
